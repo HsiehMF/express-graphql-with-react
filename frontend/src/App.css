@@ -1,0 +1,12 @@
+@import url(http://fonts.googleapis.com/earlyaccess/cwtexyen.css);
+* {
+    font-family: 'cwTeXYen', Courier;
+}
+
+.form {
+    height: 60vh;
+}
+
+.border-none {
+    border: none !important;
+}

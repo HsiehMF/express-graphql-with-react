@@ -1,0 +1,32 @@
+.modal_div {
+    width: 90%;
+    background: white;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    position: fixed;
+    top: 20vh;
+    left: 5%;
+    z-index: 100;
+    border-radius: 20px;
+  }
+  
+  .modal_content h1 {
+    border-radius: 20px;
+    margin: 0;
+    padding: 1rem;
+    background: #d0b3ff;
+    color: white;
+  }
+  
+  .modal_content {
+    padding-bottom: 1rem;
+  }
+  
+  .modal_actions {
+    display: flex;
+    justify-content: flex-end;
+    padding: 1rem;
+  }
+
+  .form-control {
+    border: none !important;
+  }
